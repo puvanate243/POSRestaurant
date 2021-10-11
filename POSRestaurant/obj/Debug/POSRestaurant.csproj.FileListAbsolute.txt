@@ -1,0 +1,42 @@
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.exe.config
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.exe
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.pdb
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.HomePage.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Properties.Resources.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csproj.GenerateResource.cache
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.exe
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.pdb
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Menu.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Order.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Bill.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Member.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Setting.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Master.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_Item.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_Table.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_User.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Item_Order.resources
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csprojAssemblyReference.cache
+C:\Users\puvan\Desktop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Item_Picked.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.exe.config
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.exe
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\bin\Debug\POSRestaurant.pdb
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csprojAssemblyReference.cache
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.HomePage.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Item_Order.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Item_Picked.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_Item.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_Table.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Master_User.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Bill.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Master.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Member.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Menu.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Order.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Panel_Setting.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.Properties.Resources.resources
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csproj.GenerateResource.cache
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.csproj.CoreCompileInputs.cache
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.exe
+F:\Bright Labtop\Daichiz\Project\POSRestaurant\POSRestaurant\obj\Debug\POSRestaurant.pdb

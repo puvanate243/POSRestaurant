@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D2080A18-DE86-49BE-BC73-6B7749E445EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POSRestaurant</RootNamespace>
+    <AssemblyName>POSRestaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Func\Function.cs" />
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item_Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Item_Order.Designer.cs">
+      <DependentUpon>Item_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item_Picked.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Item_Picked.Designer.cs">
+      <DependentUpon>Item_Picked.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Master_Item.Designer.cs">
+      <DependentUpon>Master_Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Table.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Master_Table.Designer.cs">
+      <DependentUpon>Master_Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master_User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Master_User.Designer.cs">
+      <DependentUpon>Master_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Bill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Bill.Designer.cs">
+      <DependentUpon>Panel_Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Master.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Master.Designer.cs">
+      <DependentUpon>Panel_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Member.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Member.Designer.cs">
+      <DependentUpon>Panel_Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Menu.Designer.cs">
+      <DependentUpon>Panel_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Order.Designer.cs">
+      <DependentUpon>Panel_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Setting.Designer.cs">
+      <DependentUpon>Panel_Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item_Order.resx">
+      <DependentUpon>Item_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item_Picked.resx">
+      <DependentUpon>Item_Picked.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Item.resx">
+      <DependentUpon>Master_Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Table.resx">
+      <DependentUpon>Master_Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_User.resx">
+      <DependentUpon>Master_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Bill.resx">
+      <DependentUpon>Panel_Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Master.resx">
+      <DependentUpon>Panel_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Member.resx">
+      <DependentUpon>Panel_Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Menu.resx">
+      <DependentUpon>Panel_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Order.resx">
+      <DependentUpon>Panel_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Setting.resx">
+      <DependentUpon>Panel_Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
